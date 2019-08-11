@@ -1,6 +1,6 @@
 # Color Game
 Welcome to the RGB Color Game!<br/>
-The RGB Color Game is a project that was completed as part of the Web Developer Bootcamp taught by Colt Steele. I plan to implement on top of the current version, stay tuned for version2!
+The RGB Color Game is a project that was completed as part of the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) taught by Colt Steele. I plan to implement on top of the current version, stay tuned for version2!
 <p align="center">
 <img src="/ColorGame/images/2.png"  width="500" height="400" >
 </p>
@@ -18,5 +18,5 @@ If the user wins, all boxes including the heading will turn into the right color
 
 Users can switch the game mode(EASY or HARD) at any time of the game, and the the game will restart. An example of the EASY mode:<br/>
 <p align="center">
-<img src="/ColorGame/images/3.png"  width="600" height="400">
+<img src="/ColorGame/images/3.png"  width="500" height="400">
 </p>
