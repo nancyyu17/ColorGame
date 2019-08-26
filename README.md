@@ -1,6 +1,6 @@
 # Color Game
-Welcome to the RGB Color Game!<br/>
-The RGB Color Game is a project that was completed as part of the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) taught by Colt Steele. I plan to implement on top of the current version, stay tuned for version2!
+Welcome to the RGB Color Game!<br/> [Click to play](https://nancyyu17.github.io/colorGame/)
+The RGB Color Game is a project that was completed as part of the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) taught by Colt Steele. I plan to implement on top of the [current version](https://nancyyu17.github.io/colorGame/), stay tuned for version2!
 <p align="center">
 <img src="/ColorGame/images/2.png"  width="500" height="400" >
 </p>
